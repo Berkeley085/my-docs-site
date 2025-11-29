@@ -46,8 +46,8 @@ nav_order: 1
 | Day | Time | Event | Location | Links |
 |-----|------|-------|----------|-------|
 | Day | Time | LLAB | Location | [link](#) / [link](#) |
-| Day| Time | SPT | Location | [link](#) / [link](#) |
-| Day | Time| Other | Location | [Link](#) |
+| |  |  |  | [link](#) / [link](#) |
+|  | |  |  | [Link](#) |
 
 ---
 
