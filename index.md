@@ -11,7 +11,7 @@ nav_order: 1
     <p><span style="white-space: nowrap;"><strong>PFA</strong>: First Week of Each Month Fri: 05:30 AM</span></p>
   </div>
   <div style="flex-shrink: 1; ">
-    <img src="/assets/images/detachment-logo.png" alt="Detachment 085 Logo" style="max-width: 150px; height: auto;" onerror="this.style.display='none'">
+    <img src="/assets/images/detachment-logo.png" alt="Detachment 085 Logo" style="max-width: 120px; height: auto;" onerror="this.style.display='none'">
   </div>
 </div>
 
