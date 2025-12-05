@@ -29,7 +29,7 @@ nav_order: 1
  -->
 
 * **LLAB & Training**
-  * SPT &‌ LLAB OPORDs will upload weekly around Wed/Th. Please review them before **Fri**. | [View LLAB Operations ](llab-opords/) | [View SPT Operations ](spt-opords/)
+  * SPT &‌ LLAB OPORDs will upload weekly around Wed/Th. Please review them before **Fri**. | [View LLAB OPORDs ](llab-opords/) | [View SPT OPORDs ](spt-opords/)
 
   * Week IPT Submit Form is due **Sun of each weekend at 11:59 PM**  | [Submit IPT](ipt-attendance/)
 
