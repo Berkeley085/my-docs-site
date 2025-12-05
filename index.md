@@ -15,6 +15,9 @@ nav_order: 1
   </div>
 </div>
 
+
+<!-- This to comment out you text.. same as java //writing or python #this a comment  -->
+
 ## Announcements
 <!-- 
 ### Week 12 Announcements
